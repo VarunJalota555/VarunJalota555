@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Python Automation Engineer! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) 
 
 ## 🚀 About Me
 
-🎓 I’m a [Your Profession or Major] with a passion for [Your Interests, e.g., web development, data science, open source].
+🎓 I’m a Python Automation Engineer with a passion for Automation Testing.
 
-🌱 I’m currently learning [What you're currently learning, e.g., React, Python, Machine Learning].
+🌱 I’m currently learning Python, Pytest, Selenium, Allure Report, Jenkins etc.
 
 💼 I’m looking for opportunities in [What you're looking for, e.g., software development, data analysis].
 
